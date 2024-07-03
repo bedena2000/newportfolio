@@ -1,3 +1,3 @@
 ## Live version:
 
-https://portfolio-nikaakin.vercel.app/
+https://myfirstportfolio-kappa.vercel.app/
